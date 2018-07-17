@@ -1,5 +1,5 @@
 # libcaer
-Installation steps:
+Installation steps: <br/>
 1) configure:
   $cmake -DCMAKE_INSTALL_PREFIX=/usr .
 2) build:
