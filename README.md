@@ -1,15 +1,8 @@
 # libcaer
-
-INSTALLATION:
-
+Installation steps:
 1) configure:
-
-$ cmake -DCMAKE_INSTALL_PREFIX=/usr .
-
+  $cmake -DCMAKE_INSTALL_PREFIX=/usr .
 2) build:
-
-$ make
-
+  $make
 3) install:
-
-$ sudo make install
+  $sudo make install
